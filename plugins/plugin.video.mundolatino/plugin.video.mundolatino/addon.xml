@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addons>
 <addon id="plugin.video.MundoLatino"
        name="[COLOR yellow]MundoLatino[/COLOR]"
        version="2.0.0"
@@ -28,4 +27,3 @@ CANALES RETRASMITIDOS POR INTERNET Y OTRAS PLATAFORMAS,MUNDO LATINO NO ES RESPON
     <platform>all</platform>
   </extension>
 </addon>
-</addons>
