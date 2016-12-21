@@ -44,9 +44,9 @@ else: standalone = False
 # set the repository's root folder here, if the script user has not set a custom path.
 if standalone:
             if repo_root == False: repo_root = os.getcwd()
-            print script_skytv + '  v' + str(revision_number)
-            print script_credits
-            print 'Homepage and updates: ' + homepage
+            printscript_name+str(revision_number)
+            printscript_credits
+            print'Homepage and updates: ' + homepage
             print ' '
 
 else:
